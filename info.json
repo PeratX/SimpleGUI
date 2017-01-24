@@ -1,0 +1,10 @@
+{
+  "name": "SimpleGUI",
+  "version": "1.0.0",
+  "api": 2,
+  "description": "The GUI SDK based on php-gui for SimpleFramework.",
+  "author": "PeratX",
+  "main": "SimpleGUI\\Main",
+  "order": 0,
+  "website": "https://github.com/PeratX/SimpleGUI"
+}
