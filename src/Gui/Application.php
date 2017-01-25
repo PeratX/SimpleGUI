@@ -319,7 +319,7 @@ class Application{
 	public function terminate(){
 		$this->sendCommand("exit", [], function (){
 		});
-		$this->process->terminate();
+		//$this->process->terminate();
 		$this->process->close();
 	}
 
