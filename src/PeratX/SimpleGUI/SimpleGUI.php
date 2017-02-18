@@ -1,7 +1,7 @@
 <?php
 
 /**
- * SimpleFrameworkGUI
+ * SimpleGUI
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -11,13 +11,13 @@
  * @author PeratX
  */
 
-namespace SimpleGUI;
+namespace PeratX\SimpleGUI;
 
 use Gui\Application;
 use Gui\Output;
 use sf\module\Module;
 
-class Main extends Module{
+class SimpleGUI extends Module{
 
 	public function load(){
 		$this->saveResource("phpgui-x86_64-win64.exe");
