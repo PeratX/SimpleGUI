@@ -15,7 +15,7 @@ namespace PeratX\SimpleGUI;
 
 use Gui\Application;
 use Gui\Output;
-use sf\module\Module;
+use PeratX\SimpleFramework\Module\Module;
 
 class SimpleGUI extends Module{
 
