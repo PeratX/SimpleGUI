@@ -8,14 +8,15 @@
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * @author PeratX
+ * @author iTXTech
+ * @website https://itxtech.org
  */
 
 namespace PeratX\SimpleGUI;
 
 use Gui\Application;
 use Gui\Output;
-use PeratX\SimpleFramework\Module\Module;
+use iTXTech\SimpleFramework\Module\Module;
 
 class SimpleGUI extends Module{
 

@@ -7,7 +7,8 @@ namespace Gui\Components;
  *
  * It is a visual component for progress bar
  *
- * @author PeratX @PeratX
+ * @author iTXTech
+ * @website https://itxtech.org @PeratX
  * @since 0.1
  */
 
