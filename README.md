@@ -1,7 +1,7 @@
 SimpleGUI
 ===================
 
-__The GUI SDK based on php-gui for [SimpleFramework](https://github.com/PeratX/SimpleFramework)__
+__The GUI SDK based on php-gui for [SimpleFramework](https://github.com/iTXTech/SimpleFramework)__
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
@@ -18,7 +18,7 @@ __The GUI SDK based on php-gui for [SimpleFramework](https://github.com/PeratX/S
 
 Introduction
 -------------
-With this SDK, developers can create a visual window using php and [SimpleFramework](https://github.com/PeratX/SimpleFramework) quickly and easily.
+With this SDK, developers can create a visual window using php and [SimpleFramework](https://github.com/iTXTech/SimpleFramework) quickly and easily.
 
 Get SimpleGUI
 -------------
